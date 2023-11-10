@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="mysuru.css">
+</head>
+
+<body>
+    <script>
+        function bigImg(x)
+        {
+        x.style.height = "300px";
+        x.style.width = "480px";  
+        }
+
+    function normalImg(x)
+    {
+      x.style.height = "200px";
+      x.style.width = "300px";  
+    }
+    
+    
+    </script>
+
+    <center><h2>History Of Mysuru</h2></center>
+
+    <div class="grid-container">
+        <div class="grid-item">
+            <img src="images/photo13.jpg" alt="Mysuru palace" width="600" height="400">
+        </div>  
+        <div  class="grid-item ">
+                <p><i>Mysore Palace, also called Mysuru Palace, or Amba Vilas, a sprawling three-story,
+                     gray granite, Indo-Saracenic building capped by a five-story tower that culminates in 
+                     a gilded dome in the southern Indian city of Mysuru in Karnataka state.
+                     Also referred to as the Amba Vilas. the site features cows grazing happily 
+                     among the lush gardens and twelve Hindu temples that also make up the complex.
+                      The site's history is closely linked to that of the royal family of the former
+                       kingdom of Mysore,
+                </i></p>
+        </div> 
+
+        <div  class="grid-item ">
+                <p><i>The Hindu festival of Dasara, Navratri and Vijayadashami celebrates the 
+                    victory of good over evil. It was the day in the Hindu legends when Goddess
+                     Chamundeshwari (Durga) killed the demon Mahishasura. Mahishasura is the demon 
+                     whose slaying by the Goddess gave the city the name Mysuru.
+                </i></p>
+        </div> 
+
+        <div class="grid-item">
+            <img src="images/light.jpg" alt="dasara" width="600" height="400">
+        </div> 
+        
+        <div class="grid-item">
+            <img src="images/flower.jpg" alt="Mysuru palace" width="600" height="400">
+        </div>  
+
+        <div  class="grid-item ">
+                <p><i>Mysuru Dasara Flower Show is one of the most prominent attractions,
+                     drawing visitors from different parts of the country. 
+                     This show usually takes place in Nishad Bhag or Kuppanna Park. 
+                     An exquisite collection of flowering plants is showcased during this event, 
+                     offering visitors a visual treat. The pristine beauty and colorful environment
+                      of the Mysuru Dasara Flower Show are hard to resist
+                </i></p>
+        </div> 
+
+        <div  class="grid-item">
+                <p><i>Mysuru Dasara Flower Show is one of the most prominent attractions,
+                     drawing visitors from different parts of the country. 
+                     This show usually takes place in Nishad Bhag or Kuppanna Park. 
+                     An exquisite collection of flowering plants is showcased during this event, 
+                     offering visitors a visual treat. The pristine beauty and colorful environment
+                      of the Mysuru Dasara Flower Show are hard to resist
+                </i></p>
+                <p><a href="/palace.html"><b>Click here to Register</b></a></p>
+        </div> 
+
+        <div class="grid-item">
+            <img src="/images/photo1.jpg" alt="Mysuru palace" width="600" height="400">
+        </div>
+    </div>
+
+    <br><br><br>
+<div class="grid-container1">
+    <div class="grid-item1">
+        <h5>Mysuru Palace</h5>
+        <img src="images/photo3.jpg" width="400" height="250" onmouseover="bigImg(this)"
+         onmouseover="normalImg(this)" 
+        border="0" width="300" height="200" class="image">
+        <p>Mysore Palace, also called Mysuru Palace, or Amba Vilas,a sprawling three-story,
+         gray granite, Indo-Saracenic building capped by a five-story tower that culminates in 
+         a gilded dome in the southern  </p>
+         <a href="palace.html"><input type="submit" value="Book your Tickets" style="color: black; font-style:normal;
+         opacity: 20%; border: none; border-radius: 20px;"></a>
+        </div>
+
+     <div class="grid-item1">
+         <h5>Flower show</h5>
+         <img src="images/flower.jpg" width="400" height="250" onmouseover="bigImg(this)"
+         onmouseover="normalImg(this)" 
+        border="0" width="300" height="200" class="image">
+        <p>Mysuru Dasara Flower Show is one of the most prominent attractions,
+         drawing visitors from different parts of the country. </p>
+         <a href="palace.html"><input type="submit" value="Book your Tickets" style="color: black; font-style:normal;
+         opacity: 20%; border: none; border-radius: 20px;"> </a>
+     </div>
+
+     <div class="grid-item1">
+         <h5>Mysuru Exhibition</h5>
+        <img src="images/photo15.jpg" width="400" height="250" onmouseover="bigImg(this)"
+        onmouseover="normalImg(this)" 
+       border="0" width="300" height="200" class="image">
+        <p>The Dasara Exhibition, a highly anticipated and celebrated event,
+          continues to draw a large number of visitors even after the Dasara festivities. </p>
+          <a href="palace.html"><input type="submit" value="Book your Tickets" style="color: black; font-style:normal;
+         opacity: 20%; border: none; border-radius: 20px;"> </a>
+     </div>
+
+     <div class="grid-item1">
+         <h5>Mysuru Air Show</h5>
+        <img src="images/photo16.jpg" width="400" height="250" onmouseover="bigImg(this)"
+        onmouseover="normalImg(this)" 
+       border="0" width="300" height="200" class="image">
+        <p> Torchlight Parade Grounds in Bannimantap, Mysuru, on Sunday and Monday evenings,
+          watched in awe as the fighter jets decorated the skies with various formations.</p>
+          <a href="palace.html"><input type="submit" value="Book your Tickets" style="color: black; font-style:normal; 
+         opacity: 20%; border: none; border-radius: 20px;"></a>
+        </div>
+
+     <div class="grid-item1">
+         <h5>Mysuru Jumbo Circus</h5>
+        <img src="images/photo17.jpeg" width="400" height="250" onmouseover="bigImg(this)"
+        onmouseover="normalImg(this)" 
+       border="0" width="300" height="200" class="image">
+        <p>Dasara festival that brings myriad forms of entertainment, got yet another
+          addition in Jumbo Circus 
+         that began at the grounds behind Sri Chamarajendra Zoological
+          Gardens (Mysuru Zoo) here last evening. </p>
+          <a href="palace.html"><input type="submit" value="Book your Tickets" style="color: rgb(0, 0, 0); font-style:normal; 
+            opacity: 20%; border: none; border-radius: 20px;"> 
+          </a>
+         
+     </div>
+     <div class="grid-item1">
+         <h5>Mysuru Lightings</h5>
+        <img src="images/light.jpg" width="400" height="250" onmouseover="bigImg(this)"
+        onmouseover="normalImg(this)" 
+       border="0" width="300" height="200" class="image">
+
+       
+        <p>The Hindu festival of Dasara, Navratri and Vijayadashami celebrates the 
+         victory of good over evil. It was the day in the Hindu legends when Goddess
+          Chamundeshwari (Durga) killed the demon Mahishasura.</p>
+          <a href="palace.html"><input type="submit" value="Book your Tickets" style="color:black; font-style:normal; 
+         font-weight: 300; opacity: 20%; border: none; border-radius: 20px; border: none;"></a> 
+         
+     </div>
+
+     <div class="grid-item1">
+        <img src="/images/light.jpg" id="myPalace" style="width: 400px; height: 300px;">
+    
+        <button onclick="document.getElementById('myPalace').src = '/images/light.jpg'"
+            style="color: black; font-style:normal; 
+            font-weight: 300; opacity: 20%; border: none; border-radius: 20px;">
+                Turn on the light
+            </button>
+            
+        <button onclick="document.getElementById('myPalace').src = '/images/photo4.jpg'"
+            style="color: black; font-style:normal; 
+            font-weight: 300; opacity: 20%; border: none; border-radius: 20px;">
+            Turn off the light
+            </button>
+     </div>
+
+     <div class="grid-item1">
+        <img src="images/photo4.jpg" width="350" height="150" class="img1">   
+     </div>
+     <div class="grid-item1">
+        <a href="dragPage.html">Click here to Drag the element</a>
+        <br>
+        <br>
+        <a href="gallery.html"><b>Click here to open gallery</b></a>
+     </div>
+</div>
+    
+</body>
+</html>
+
+<marquee behavior="scroll" direction="left">
+    This year, the Dussehra 2023 Start Date And End Date of Vijayadashami, 
+    also known as Dussehra, are October 15, 2023, to October 24, 2023.</marquee>
